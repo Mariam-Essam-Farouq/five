@@ -3,3 +3,4 @@ second line
 feature
 added by remote git
 goodbye!
+6th line
